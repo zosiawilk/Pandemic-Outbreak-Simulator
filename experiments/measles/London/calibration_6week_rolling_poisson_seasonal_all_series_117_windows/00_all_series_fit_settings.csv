@@ -1,0 +1,2 @@
+pipeline_version,quick_check,observed_weeks,rolling_windows,objective,seasonal_period_weeks,amplitude_lower,amplitude_upper,peak_week_lower,peak_week_upper,n_trials,n_refinement_trials,seasonal_refinement_maxiter,initial_state_refinement_maxiter,run_optional_gradient,gradient_maxiter,random_seed
+mathsy-london-v7-random-search-120-40,False,123,117,overlap-weighted Poisson NLL,52.18,0.0,0.6,0.0,52.18,120,40,80,60,False,140,20260823

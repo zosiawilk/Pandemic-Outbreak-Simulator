@@ -1,0 +1,2 @@
+method,poisson_nll,selected
+bounded random search with local/Powell refinement,3.9224787271299255,True

@@ -1,0 +1,10 @@
+region,region_code,population_density_per_km2,reference_date,source
+North East,E12000001,322,2024-06-30,ONS Explore Local Statistics population-density indicator
+North West,E12000002,548,2024-06-30,ONS Explore Local Statistics population-density indicator
+Yorkshire and The Humber,E12000003,368,2024-06-30,ONS Explore Local Statistics population-density indicator
+East Midlands,E12000004,324,2024-06-30,ONS Explore Local Statistics population-density indicator
+West Midlands,E12000005,476,2024-06-30,ONS Explore Local Statistics population-density indicator
+East of England,E12000006,344,2024-06-30,ONS Explore Local Statistics population-density indicator
+London,E12000007,5782,2024-06-30,ONS Explore Local Statistics population-density indicator
+South East,E12000008,506,2024-06-30,ONS Explore Local Statistics population-density indicator
+South West,E12000009,247,2024-06-30,ONS Explore Local Statistics population-density indicator

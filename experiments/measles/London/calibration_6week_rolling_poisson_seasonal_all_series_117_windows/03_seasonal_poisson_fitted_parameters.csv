@@ -1,0 +1,2 @@
+pipeline_version,selected_method,gamma,local_mixing,contact_scale,sick_contact_multiplier,sick_mobility_multiplier,seed_infections_per_week,initial_exposed_per_case,initial_infectious_per_case,seasonal_amplitude,seasonal_peak_week
+mathsy-london-v7-random-search-120-40,bounded random search with local/Powell refinement,0.05558290101933484,0.2615683230798446,0.37504749057677583,0.4749260955886416,0.11858119497940835,5.342892224922624,2.1898503410628885,0.526451990777854,0.5753886179075816,14.575700882546661

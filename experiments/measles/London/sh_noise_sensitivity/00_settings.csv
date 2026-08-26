@@ -1,0 +1,2 @@
+quick_check,training_weeks,horizon_weeks,outbreak_threshold,n_simulations_per_origin_and_level,gamma_lower_bound,gamma_upper_bound,c_sh_levels
+False,60,6,10.0,100,0.05555555555555555,0.25,"0.0, 0.05, 0.1, 0.2, 0.5, 1.0"

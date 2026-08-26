@@ -1,0 +1,2 @@
+forecast_origin,origin_reported_cases,case_input_path,reporting_delay_weeks_excluded,simulations,horizon_weeks,outbreak_threshold_strictly_greater_than,history_weeks,noise_scale,sh_noise_multiplier,seasonal_amplitude,seasonal_peak_week,random_seed
+2026-07-13,10.0,/Users/zosiawilk/Downloads/ukhsa-chart-download (2).csv,True,1000,6,15.0,4,0.03,1.0,0.6,13.433982740528194,20260826

@@ -1,0 +1,2 @@
+pipeline_version,quick_check,observed_weeks,rolling_windows,forecast_weeks_per_window,objective,n_trials,n_refinement_trials,initial_state_refinement_maxiter,run_optional_gradient,gradient_maxiter,random_seed
+mathsy-london-v7-random-search-120-40,False,123,117,6,overlap-weighted Poisson NLL,240,80,50,False,120,20260822

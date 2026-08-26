@@ -1,0 +1,2 @@
+gamma,local_mixing,contact_scale,sick_contact_multiplier,sick_mobility_multiplier,seed_infections_per_week,initial_exposed_per_case,initial_infectious_per_case
+0.05555555555555555,0.5051149989678707,0.18332535499407265,0.5342338952936514,0.8094653557633753,5.135063518358488,4.043389093098065,0.1579045830557226
